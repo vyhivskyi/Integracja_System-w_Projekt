@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+Informacje formalne
+Nazwa projektu: Zestawienie danych na temat migracji ludności i cen mieszkań w okresie z 2011 po 2021 z uwzględnieniem regionów
+Skład grupy projektowej:
+Artem Vyhivskyi: Poszukiwanie danych, tworzenie backendu, przetwarzanie danych, wspólne tworzenie frontendu
+Daria Vovk: Poszukiwanie danych, wspólne tworzenie frontendu, analiza wyników
+Wykorzystane technologie:
+Backend: Express.js
+Frontend: React
+Baza danych: MongoDB
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Opis projektu
+Nasza aplikacja "Zestawienie danych na temat migracji ludności i cen mieszkań w okresie z 2011 po 2021 z uwzględnieniem regionów" ma na celu zintegrowanie danych 
+dotyczących migracji ludności oraz cen mieszkań. Dzięki tej aplikacji użytkownicy mogą przeglądać informacje na temat migracji ludności między regionami w określonym 
+okresie czasu oraz analizować zmiany cen mieszkań w różnych regionach.
+Przykładowe pytania, na które można znaleźć odpowiedzi wykorzystując naszą aplikację:
+Jak zmieniały się ceny mieszkań w poszczególnych regionach w okresie od 2011 do 2021 roku?
+Jak zmieniało się saldo migracji miejskich danym okresie?
+Jaki był wpływ migracji ludności na ceny mieszkań w poszczególnych regionach?
 
-## Available Scripts
+Konfiguracja środowiska
+Aby uruchomić projekt, należy wykonać następujące kroki:
+Połączyć się z bazą danych MongoDB Atlas.
+Uruchomić oddzielne terminale i użyć polecenia "npm start", aby uruchomić aplikację serwerową i klienta.
 
-In the project directory, you can run:
+Wymagane zależności
+Należy się upewnić, że są zainstalowane następujące zależności:
+Moduł Chart.js w wersji 2.9.4, który jest wykorzystywany do rysowania wykresów.
+Zmodyfikowany plik webpack.config.js, który umożliwia przetwarzanie danych wczytanych z pliku XML.
+Dodatkowo do przesyłanych aplikacji należy doinstalować node_moduls.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Źródła danych
+Dane dotyczące cen mieszkań zostały pobrane ze strony Narodowego Banku Polskiego.
+Dane dotyczące migracji ludności zostały pobrane ze strony Głównego Urzędu Statystycznego.
