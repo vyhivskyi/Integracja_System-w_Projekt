@@ -1,0 +1,2406 @@
+
+<migracja>
+	<region name="Dolnośląskie">
+  <year>
+    <value>2011</value>
+    <migration>
+      <urban_inflow>19 858</urban_inflow>
+      <urban_outflow>23 083</urban_outflow>
+      <urban_balance>-3 225</urban_balance>
+      <rural_inflow>15 757</rural_inflow>
+      <rural_outflow>10 973</rural_outflow>
+      <rural_balance>4 784</rural_balance>
+      <total_inflow>35 615</total_inflow>
+      <total_outflow>34 056</total_outflow>
+      <total_balance>1 559</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2012</value>
+    <migration>
+      <urban_inflow>18 817</urban_inflow>
+      <urban_outflow>21 662</urban_outflow>
+      <urban_balance>-2 845</urban_balance>
+      <rural_inflow>15 018</rural_inflow>
+      <rural_outflow>10 438</rural_outflow>
+      <rural_balance>4 580</rural_balance>
+      <total_inflow>33 835</total_inflow>
+      <total_outflow>32 100</total_outflow>
+      <total_balance>1 735</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2013</value>
+    <migration>
+      <urban_inflow>20 917</urban_inflow>
+      <urban_outflow>23 198</urban_outflow>
+      <urban_balance>-2 281</urban_balance>
+      <rural_inflow>15 948</rural_inflow>
+      <rural_outflow>11 276</rural_outflow>
+      <rural_balance>4 672</rural_balance>
+      <total_inflow>36 865</total_inflow>
+      <total_outflow>34 474</total_outflow>
+      <total_balance>2 391</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2014</value>
+    <migration>
+      <urban_inflow>20 104</urban_inflow>
+      <urban_outflow>21 942</urban_outflow>
+      <urban_balance>-1 838</urban_balance>
+      <rural_inflow>15 183</rural_inflow>
+      <rural_outflow>10 919</rural_outflow>
+      <rural_balance>4 264</rural_balance>
+      <total_inflow>35 287</total_inflow>
+      <total_outflow>32 861</total_outflow>
+      <total_balance>2 426</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2015</value>
+    <migration>
+      <urban_inflow>19 281</urban_inflow>
+      <urban_outflow>19 628</urban_outflow>
+      <urban_balance>-347</urban_balance>
+      <rural_inflow>13 819</rural_inflow>
+      <rural_outflow>10 820</rural_outflow>
+      <rural_balance>2 999</rural_balance>
+      <total_inflow>33 100</total_inflow>
+      <total_outflow>30 448</total_outflow>
+      <total_balance>2 652</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2016</value>
+    <migration>
+      <urban_inflow>18 182</urban_inflow>
+      <urban_outflow>19 049</urban_outflow>
+      <urban_balance>-867</urban_balance>
+      <rural_inflow>13 753</rural_inflow>
+      <rural_outflow>10 227</rural_outflow>
+      <rural_balance>3 526</rural_balance>
+      <total_inflow>31 935</total_inflow>
+      <total_outflow>29 276</total_outflow>
+      <total_balance>2 659</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2017</value>
+    <migration>
+      <urban_inflow>19 164</urban_inflow>
+      <urban_outflow>20 863</urban_outflow>
+      <urban_balance>-1 699</urban_balance>
+      <rural_inflow>15 235</rural_inflow>
+      <rural_outflow>10 941</rural_outflow>
+      <rural_balance>4 294</rural_balance>
+      <total_inflow>34 399</total_inflow>
+      <total_outflow>31 804</total_outflow>
+      <total_balance>2 595</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2018</value>
+    <migration>
+      <urban_inflow>21 922</urban_inflow>
+      <urban_outflow>23 846</urban_outflow>
+      <urban_balance>-1 924</urban_balance>
+      <rural_inflow>17 420</rural_inflow>
+      <rural_outflow>12 296</rural_outflow>
+      <rural_balance>5 124</rural_balance>
+      <total_inflow>39 342</total_inflow>
+      <total_outflow>36 142</total_outflow>
+      <total_balance>3 200</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2019</value>
+    <migration>
+      <urban_inflow>23 119</urban_inflow>
+      <urban_outflow>24 635</urban_outflow>
+      <urban_balance>-1 516</urban_balance>
+      <rural_inflow>18 418</rural_inflow>
+      <rural_outflow>12 687</rural_outflow>
+      <rural_balance>5 731</rural_balance>
+      <total_inflow>41 537</total_inflow>
+      <total_outflow>37 322</total_outflow>
+      <total_balance>4 215</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2020</value>
+    <migration>
+      <urban_inflow>18 404</urban_inflow>
+      <urban_outflow>21 019</urban_outflow>
+      <urban_balance>-2 615</urban_balance>
+      <rural_inflow>16 553</rural_inflow>
+      <rural_outflow>10 643</rural_outflow>
+      <rural_balance>5 910</rural_balance>
+      <total_inflow>34 957</total_inflow>
+      <total_outflow>31 662</total_outflow>
+      <total_balance>3 295</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2021</value>
+    <migration>
+      <urban_inflow>19 923</urban_inflow>
+      <urban_outflow>23 538</urban_outflow>
+      <urban_balance>-3 615</urban_balance>
+      <rural_inflow>18 559</rural_inflow>
+      <rural_outflow>11 639</rural_outflow>
+      <rural_balance>6 920</rural_balance>
+      <total_inflow>38 482</total_inflow>
+      <total_outflow>35 177</total_outflow>
+      <total_balance>3 305</total_balance>
+    </migration>
+  </year>
+</region>
+<region name="Kujawsko-pomorskie">
+  <year>
+    <value>2011</value>
+    <migration>
+      <urban_inflow>10 855</urban_inflow>
+      <urban_outflow>14 229</urban_outflow>
+      <urban_balance>-3 374</urban_balance>
+      <rural_inflow>12 317</rural_inflow>
+      <rural_outflow>10 264</rural_outflow>
+      <rural_balance>2 053</rural_balance>
+      <total_inflow>23 172</total_inflow>
+      <total_outflow>24 493</total_outflow>
+      <total_balance>-1 321</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2012</value>
+    <migration>
+      <urban_inflow>9 950</urban_inflow>
+      <urban_outflow>13 351</urban_outflow>
+      <urban_balance>-3 401</urban_balance>
+      <rural_inflow>11 737</rural_inflow>
+      <rural_outflow>9 864</rural_outflow>
+      <rural_balance>1 873</rural_balance>
+      <total_inflow>21 687</total_inflow>
+      <total_outflow>23 215</total_outflow>
+      <total_balance>-1 528</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2013</value>
+    <migration>
+      <urban_inflow>10 501</urban_inflow>
+      <urban_outflow>13 809</urban_outflow>
+      <urban_balance>-3 308</urban_balance>
+      <rural_inflow>12 350</rural_inflow>
+      <rural_outflow>10 661</rural_outflow>
+      <rural_balance>1 689</rural_balance>
+      <total_inflow>22 851</total_inflow>
+      <total_outflow>24 470</total_outflow>
+      <total_balance>-1 619</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2014</value>
+    <migration>
+      <urban_inflow>9 990</urban_inflow>
+      <urban_outflow>13 042</urban_outflow>
+      <urban_balance>-3 052</urban_balance>
+      <rural_inflow>11 839</rural_inflow>
+      <rural_outflow>10 525</rural_outflow>
+      <rural_balance>1 314</rural_balance>
+      <total_inflow>21 829</total_inflow>
+      <total_outflow>23 567</total_outflow>
+      <total_balance>-1 738</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2015</value>
+    <migration>
+      <urban_inflow>9 476</urban_inflow>
+      <urban_outflow>12 432</urban_outflow>
+      <urban_balance>-2 956</urban_balance>
+      <rural_inflow>10 927</rural_inflow>
+      <rural_outflow>9 720</rural_outflow>
+      <rural_balance>1 207</rural_balance>
+      <total_inflow>20 403</total_inflow>
+      <total_outflow>22 152</total_outflow>
+      <total_balance>-1 749</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2016</value>
+    <migration>
+      <urban_inflow>9 318</urban_inflow>
+      <urban_outflow>12 223</urban_outflow>
+      <urban_balance>-2 905</urban_balance>
+      <rural_inflow>10 994</rural_inflow>
+      <rural_outflow>9 808</rural_outflow>
+      <rural_balance>1 186</rural_balance>
+      <total_inflow>20 312</total_inflow>
+      <total_outflow>22 031</total_outflow>
+      <total_balance>-1 719</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2017</value>
+    <migration>
+      <urban_inflow>9 570</urban_inflow>
+      <urban_outflow>12 433</urban_outflow>
+      <urban_balance>-2 863</urban_balance>
+      <rural_inflow>11 418</rural_inflow>
+      <rural_outflow>10 070</rural_outflow>
+      <rural_balance>1 348</rural_balance>
+      <total_inflow>20 988</total_inflow>
+      <total_outflow>22 503</total_outflow>
+      <total_balance>-1 515</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2018</value>
+    <migration>
+      <urban_inflow>10 594</urban_inflow>
+      <urban_outflow>14 619</urban_outflow>
+      <urban_balance>-4 025</urban_balance>
+      <rural_inflow>12 637</rural_inflow>
+      <rural_outflow>11 153</rural_outflow>
+      <rural_balance>1 484</rural_balance>
+      <total_inflow>23 231</total_inflow>
+      <total_outflow>25 772</total_outflow>
+      <total_balance>-2 541</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2019</value>
+    <migration>
+      <urban_inflow>10 824</urban_inflow>
+      <urban_outflow>15 351</urban_outflow>
+      <urban_balance>-4 527</urban_balance>
+      <rural_inflow>13 283</rural_inflow>
+      <rural_outflow>11 677</rural_outflow>
+      <rural_balance>1 606</rural_balance>
+      <total_inflow>24 107</total_inflow>
+      <total_outflow>27 028</total_outflow>
+      <total_balance>-2 921</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2020</value>
+    <migration>
+      <urban_inflow>8 353</urban_inflow>
+      <urban_outflow>12 765</urban_outflow>
+      <urban_balance>-4 412</urban_balance>
+      <rural_inflow>11 851</rural_inflow>
+      <rural_outflow>9 551</rural_outflow>
+      <rural_balance>2 300</rural_balance>
+      <total_inflow>20 204</total_inflow>
+      <total_outflow>22 316</total_outflow>
+      <total_balance>-2 112</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2021</value>
+    <migration>
+      <urban_inflow>9 001</urban_inflow>
+      <urban_outflow>14 211</urban_outflow>
+      <urban_balance>-5 210</urban_balance>
+      <rural_inflow>13 497</rural_inflow>
+      <rural_outflow>10 491</rural_outflow>
+      <rural_balance>3 006</rural_balance>
+      <total_inflow>22 498</total_inflow>
+      <total_outflow>24 702</total_outflow>
+      <total_balance>-2 204</total_balance>
+    </migration>
+  </year>
+</region>
+<region name="Lubelskie">
+  <year>
+    <value>2011</value>
+    <migration>
+      <urban_inflow>8 241</urban_inflow>
+      <urban_outflow>12 611</urban_outflow>
+      <urban_balance>-4 370</urban_balance>
+      <rural_inflow>11 994</rural_inflow>
+      <rural_outflow>12 584</rural_outflow>
+      <rural_balance>-590</rural_balance>
+      <total_inflow>20 235</total_inflow>
+      <total_outflow>25 195</total_outflow>
+      <total_balance>-4 960</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2012</value>
+    <migration>
+      <urban_inflow>7 627</urban_inflow>
+      <urban_outflow>11 907</urban_outflow>
+      <urban_balance>-4 280</urban_balance>
+      <rural_inflow>11 357</rural_inflow>
+      <rural_outflow>12 095</rural_outflow>
+      <rural_balance>-738</rural_balance>
+      <total_inflow>18 984</total_inflow>
+      <total_outflow>24 002</total_outflow>
+      <total_balance>-5 018</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2013</value>
+    <migration>
+      <urban_inflow>8 029</urban_inflow>
+      <urban_outflow>12 732</urban_outflow>
+      <urban_balance>-4 703</urban_balance>
+      <rural_inflow>12 190</rural_inflow>
+      <rural_outflow>12 441</rural_outflow>
+      <rural_balance>-251</rural_balance>
+      <total_inflow>20 219</total_inflow>
+      <total_outflow>25 173</total_outflow>
+      <total_balance>-4 954</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2014</value>
+    <migration>
+      <urban_inflow>7 493</urban_inflow>
+      <urban_outflow>12 237</urban_outflow>
+      <urban_balance>-4 744</urban_balance>
+      <rural_inflow>12 386</rural_inflow>
+      <rural_outflow>12 297</rural_outflow>
+      <rural_balance>89</rural_balance>
+      <total_inflow>19 879</total_inflow>
+      <total_outflow>24 534</total_outflow>
+      <total_balance>-4 655</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2015</value>
+    <migration>
+      <urban_inflow>7 339</urban_inflow>
+      <urban_outflow>11 600</urban_outflow>
+      <urban_balance>-4 261</urban_balance>
+      <rural_inflow>12 183</rural_inflow>
+      <rural_outflow>12 205</rural_outflow>
+      <rural_balance>-22</rural_balance>
+      <total_inflow>19 522</total_inflow>
+      <total_outflow>23 805</total_outflow>
+      <total_balance>-4 283</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2016</value>
+    <migration>
+      <urban_inflow>7 201</urban_inflow>
+      <urban_outflow>11 540</urban_outflow>
+      <urban_balance>-4 339</urban_balance>
+      <rural_inflow>12 412</rural_inflow>
+      <rural_outflow>12 271</rural_outflow>
+      <rural_balance>141</rural_balance>
+      <total_inflow>19 613</total_inflow>
+      <total_outflow>23 811</total_outflow>
+      <total_balance>-4 198</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2017</value>
+    <migration>
+      <urban_inflow>7 696</urban_inflow>
+      <urban_outflow>12 074</urban_outflow>
+      <urban_balance>-4 378</urban_balance>
+      <rural_inflow>13 006</rural_inflow>
+      <rural_outflow>12 096</rural_outflow>
+      <rural_balance>910</rural_balance>
+      <total_inflow>20 702</total_inflow>
+      <total_outflow>24 170</total_outflow>
+      <total_balance>-3 468</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2018</value>
+    <migration>
+      <urban_inflow>8 045</urban_inflow>
+      <urban_outflow>13 628</urban_outflow>
+      <urban_balance>-5 583</urban_balance>
+      <rural_inflow>13 568</rural_inflow>
+      <rural_outflow>12 111</rural_outflow>
+      <rural_balance>1 457</rural_balance>
+      <total_inflow>21 613</total_inflow>
+      <total_outflow>25 739</total_outflow>
+      <total_balance>-4 126</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2019</value>
+    <migration>
+      <urban_inflow>8 362</urban_inflow>
+      <urban_outflow>14 478</urban_outflow>
+      <urban_balance>-6 116</urban_balance>
+      <rural_inflow>14 457</rural_inflow>
+      <rural_outflow>13 262</rural_outflow>
+      <rural_balance>1 195</rural_balance>
+      <total_inflow>22 819</total_inflow>
+      <total_outflow>27 740</total_outflow>
+      <total_balance>-4 921</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2020</value>
+    <migration>
+      <urban_inflow>6 636</urban_inflow>
+      <urban_outflow>12 258</urban_outflow>
+      <urban_balance>-5 622</urban_balance>
+      <rural_inflow>12 770</rural_inflow>
+      <rural_outflow>11 449</rural_outflow>
+      <rural_balance>1 321</rural_balance>
+      <total_inflow>19 406</total_inflow>
+      <total_outflow>23 707</total_outflow>
+      <total_balance>-4 301</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2021</value>
+    <migration>
+      <urban_inflow>6 774</urban_inflow>
+      <urban_outflow>12 450</urban_outflow>
+      <urban_balance>-5 676</urban_balance>
+      <rural_inflow>12 580</rural_inflow>
+      <rural_outflow>11 917</rural_outflow>
+      <rural_balance>663</rural_balance>
+      <total_inflow>19 354</total_inflow>
+      <total_outflow>24 367</total_outflow>
+      <total_balance>-5 013</total_balance>
+    </migration>
+  </year>
+</region>
+<region name="Lubuskie">
+  <year>
+    <value>2011</value>
+    <migration>
+      <urban_inflow>6 731</urban_inflow>
+      <urban_outflow>8 079</urban_outflow>
+      <urban_balance>-1 348</urban_balance>
+      <rural_inflow>5 894</rural_inflow>
+      <rural_outflow>5 211</rural_outflow>
+      <rural_balance>683</rural_balance>
+      <total_inflow>12 625</total_inflow>
+      <total_outflow>13 290</total_outflow>
+      <total_balance>-665</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2012</value>
+    <migration>
+      <urban_inflow>6 434</urban_inflow>
+      <urban_outflow>7 863</urban_outflow>
+      <urban_balance>-1 429</urban_balance>
+      <rural_inflow>6 014</rural_inflow>
+      <rural_outflow>5 026</rural_outflow>
+      <rural_balance>988</rural_balance>
+      <total_inflow>12 448</total_inflow>
+      <total_outflow>12 889</total_outflow>
+      <total_balance>-441</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2013</value>
+    <migration>
+      <urban_inflow>7 032</urban_inflow>
+      <urban_outflow>8 285</urban_outflow>
+      <urban_balance>-1 253</urban_balance>
+      <rural_inflow>6 134</rural_inflow>
+      <rural_outflow>5 624</rural_outflow>
+      <rural_balance>510</rural_balance>
+      <total_inflow>13 166</total_inflow>
+      <total_outflow>13 909</total_outflow>
+      <total_balance>-743</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2014</value>
+    <migration>
+      <urban_inflow>6 473</urban_inflow>
+      <urban_outflow>7 533</urban_outflow>
+      <urban_balance>-1 060</urban_balance>
+      <rural_inflow>5 744</rural_inflow>
+      <rural_outflow>5 344</rural_outflow>
+      <rural_balance>400</rural_balance>
+      <total_inflow>12 217</total_inflow>
+      <total_outflow>12 877</total_outflow>
+      <total_balance>-660</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2015</value>
+    <migration>
+      <urban_inflow>6 167</urban_inflow>
+      <urban_outflow>7 143</urban_outflow>
+      <urban_balance>-976</urban_balance>
+      <rural_inflow>4 792</rural_inflow>
+      <rural_outflow>4 709</rural_outflow>
+      <rural_balance>83</rural_balance>
+      <total_inflow>10 959</total_inflow>
+      <total_outflow>11 852</total_outflow>
+      <total_balance>-893</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2016</value>
+    <migration>
+      <urban_inflow>5 854</urban_inflow>
+      <urban_outflow>6 640</urban_outflow>
+      <urban_balance>-786</urban_balance>
+      <rural_inflow>4 803</rural_inflow>
+      <rural_outflow>4 757</rural_outflow>
+      <rural_balance>46</rural_balance>
+      <total_inflow>10 657</total_inflow>
+      <total_outflow>11 397</total_outflow>
+      <total_balance>-740</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2017</value>
+    <migration>
+      <urban_inflow>6 412</urban_inflow>
+      <urban_outflow>7 153</urban_outflow>
+      <urban_balance>-741</urban_balance>
+      <rural_inflow>5 026</rural_inflow>
+      <rural_outflow>5 073</rural_outflow>
+      <rural_balance>-47</rural_balance>
+      <total_inflow>11 438</total_inflow>
+      <total_outflow>12 226</total_outflow>
+      <total_balance>-788</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2018</value>
+    <migration>
+      <urban_inflow>6 816</urban_inflow>
+      <urban_outflow>7 792</urban_outflow>
+      <urban_balance>-976</urban_balance>
+      <rural_inflow>5 461</rural_inflow>
+      <rural_outflow>5 456</rural_outflow>
+      <rural_balance>5</rural_balance>
+      <total_inflow>12 277</total_inflow>
+      <total_outflow>13 248</total_outflow>
+      <total_balance>-971</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2019</value>
+    <migration>
+      <urban_inflow>7 193</urban_inflow>
+      <urban_outflow>8 504</urban_outflow>
+      <urban_balance>-1 311</urban_balance>
+      <rural_inflow>5 708</rural_inflow>
+      <rural_outflow>5 642</rural_outflow>
+      <rural_balance>66</rural_balance>
+      <total_inflow>12 901</total_inflow>
+      <total_outflow>14 146</total_outflow>
+      <total_balance>-1 245</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2020</value>
+    <migration>
+      <urban_inflow>5 592</urban_inflow>
+      <urban_outflow>7 158</urban_outflow>
+      <urban_balance>-1 566</urban_balance>
+      <rural_inflow>5 167</rural_inflow>
+      <rural_outflow>4 443</rural_outflow>
+      <rural_balance>724</rural_balance>
+      <total_inflow>10 759</total_inflow>
+      <total_outflow>11 601</total_outflow>
+      <total_balance>-842</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2021</value>
+    <migration>
+      <urban_inflow>5 677</urban_inflow>
+      <urban_outflow>7 697</urban_outflow>
+      <urban_balance>-2 020</urban_balance>
+      <rural_inflow>5 912</rural_inflow>
+      <rural_outflow>4 960</rural_outflow>
+      <rural_balance>952</rural_balance>
+      <total_inflow>11 589</total_inflow>
+      <total_outflow>12 657</total_outflow>
+      <total_balance>-1 068</total_balance>
+    </migration>
+  </year>
+</region>
+<region name="Łódzkie">
+  <year>
+    <value>2011</value>
+    <migration>
+      <urban_inflow>10 937</urban_inflow>
+      <urban_outflow>15 541</urban_outflow>
+      <urban_balance>-4 604</urban_balance>
+      <rural_inflow>11 756</rural_inflow>
+      <rural_outflow>8 996</rural_outflow>
+      <rural_balance>2 760</rural_balance>
+      <total_inflow>22 693</total_inflow>
+      <total_outflow>24 537</total_outflow>
+      <total_balance>-1 844</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2012</value>
+    <migration>
+      <urban_inflow>10 286</urban_inflow>
+      <urban_outflow>14 201</urban_outflow>
+      <urban_balance>-3 915</urban_balance>
+      <rural_inflow>11 129</rural_inflow>
+      <rural_outflow>8 857</rural_outflow>
+      <rural_balance>2 272</rural_balance>
+      <total_inflow>21 415</total_inflow>
+      <total_outflow>23 058</total_outflow>
+      <total_balance>-1 643</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2013</value>
+    <migration>
+      <urban_inflow>10 660</urban_inflow>
+      <urban_outflow>15 675</urban_outflow>
+      <urban_balance>-5 015</urban_balance>
+      <rural_inflow>12 152</rural_inflow>
+      <rural_outflow>9 241</rural_outflow>
+      <rural_balance>2 911</rural_balance>
+      <total_inflow>22 812</total_inflow>
+      <total_outflow>24 916</total_outflow>
+      <total_balance>-2 104</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2014</value>
+    <migration>
+      <urban_inflow>10 340</urban_inflow>
+      <urban_outflow>14 288</urban_outflow>
+      <urban_balance>-3 948</urban_balance>
+      <rural_inflow>11 251</rural_inflow>
+      <rural_outflow>9 004</rural_outflow>
+      <rural_balance>2 247</rural_balance>
+      <total_inflow>21 591</total_inflow>
+      <total_outflow>23 292</total_outflow>
+      <total_balance>-1 701</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2015</value>
+    <migration>
+      <urban_inflow>9 740</urban_inflow>
+      <urban_outflow>13 576</urban_outflow>
+      <urban_balance>-3 836</urban_balance>
+      <rural_inflow>10 678</rural_inflow>
+      <rural_outflow>8 569</rural_outflow>
+      <rural_balance>2 109</rural_balance>
+      <total_inflow>20 418</total_inflow>
+      <total_outflow>22 145</total_outflow>
+      <total_balance>-1 727</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2016</value>
+    <migration>
+      <urban_inflow>9 587</urban_inflow>
+      <urban_outflow>13 457</urban_outflow>
+      <urban_balance>-3 870</urban_balance>
+      <rural_inflow>10 471</rural_inflow>
+      <rural_outflow>8 296</rural_outflow>
+      <rural_balance>2 175</rural_balance>
+      <total_inflow>20 058</total_inflow>
+      <total_outflow>21 753</total_outflow>
+      <total_balance>-1 695</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2017</value>
+    <migration>
+      <urban_inflow>9 986</urban_inflow>
+      <urban_outflow>14 003</urban_outflow>
+      <urban_balance>-4 017</urban_balance>
+      <rural_inflow>10 872</rural_inflow>
+      <rural_outflow>8 816</rural_outflow>
+      <rural_balance>2 056</rural_balance>
+      <total_inflow>20 858</total_inflow>
+      <total_outflow>22 819</total_outflow>
+      <total_balance>-1 961</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2018</value>
+    <migration>
+      <urban_inflow>11 041</urban_inflow>
+      <urban_outflow>15 573</urban_outflow>
+      <urban_balance>-4 532</urban_balance>
+      <rural_inflow>12 123</rural_inflow>
+      <rural_outflow>9 754</rural_outflow>
+      <rural_balance>2 369</rural_balance>
+      <total_inflow>23 164</total_inflow>
+      <total_outflow>25 327</total_outflow>
+      <total_balance>-2 163</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2019</value>
+    <migration>
+      <urban_inflow>11 047</urban_inflow>
+      <urban_outflow>16 193</urban_outflow>
+      <urban_balance>-5 146</urban_balance>
+      <rural_inflow>12 360</rural_inflow>
+      <rural_outflow>10 038</rural_outflow>
+      <rural_balance>2 322</rural_balance>
+      <total_inflow>23 407</total_inflow>
+      <total_outflow>26 231</total_outflow>
+      <total_balance>-2 824</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2020</value>
+    <migration>
+      <urban_inflow>8 702</urban_inflow>
+      <urban_outflow>13 646</urban_outflow>
+      <urban_balance>-4 944</urban_balance>
+      <rural_inflow>10 968</rural_inflow>
+      <rural_outflow>7 836</rural_outflow>
+      <rural_balance>3 132</rural_balance>
+      <total_inflow>19 670</total_inflow>
+      <total_outflow>21 482</total_outflow>
+      <total_balance>-1 812</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2021</value>
+    <migration>
+      <urban_inflow>9 890</urban_inflow>
+      <urban_outflow>15 079</urban_outflow>
+      <urban_balance>-5 189</urban_balance>
+      <rural_inflow>12 167</rural_inflow>
+      <rural_outflow>9 260</rural_outflow>
+      <rural_balance>2 907</rural_balance>
+      <total_inflow>22 057</total_inflow>
+      <total_outflow>24 339</total_outflow>
+      <total_balance>-2 282</total_balance>
+    </migration>
+  </year>
+</region>
+<region name="Małopolskie">
+  <year>
+    <value>2011</value>
+    <migration>
+      <urban_inflow>14 695</urban_inflow>
+      <urban_outflow>16 121</urban_outflow>
+      <urban_balance>-1 426</urban_balance>
+      <rural_inflow>17 491</rural_inflow>
+      <rural_outflow>12 282</rural_outflow>
+      <rural_balance>5 209</rural_balance>
+      <total_inflow>32 186</total_inflow>
+      <total_outflow>28 403</total_outflow>
+      <total_balance>3 783</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2012</value>
+    <migration>
+      <urban_inflow>13 505</urban_inflow>
+      <urban_outflow>15 024</urban_outflow>
+      <urban_balance>-1 519</urban_balance>
+      <rural_inflow>16 524</rural_inflow>
+      <rural_outflow>11 651</rural_outflow>
+      <rural_balance>4 873</rural_balance>
+      <total_inflow>30 029</total_inflow>
+      <total_outflow>26 675</total_outflow>
+      <total_balance>3 354</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2013</value>
+    <migration>
+      <urban_inflow>15 187</urban_inflow>
+      <urban_outflow>16 270</urban_outflow>
+      <urban_balance>-1 083</urban_balance>
+      <rural_inflow>18 388</rural_inflow>
+      <rural_outflow>13 530</rural_outflow>
+      <rural_balance>4 858</rural_balance>
+      <total_inflow>33 575</total_inflow>
+      <total_outflow>29 800</total_outflow>
+      <total_balance>3 775</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2014</value>
+    <migration>
+      <urban_inflow>14 882</urban_inflow>
+      <urban_outflow>15 143</urban_outflow>
+      <urban_balance>-261</urban_balance>
+      <rural_inflow>16 508</rural_inflow>
+      <rural_outflow>12 675</rural_outflow>
+      <rural_balance>3 833</rural_balance>
+      <total_inflow>31 390</total_inflow>
+      <total_outflow>27 818</total_outflow>
+      <total_balance>3 572</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2015</value>
+    <migration>
+      <urban_inflow>14 642</urban_inflow>
+      <urban_outflow>14 501</urban_outflow>
+      <urban_balance>141</urban_balance>
+      <rural_inflow>16 122</rural_inflow>
+      <rural_outflow>12 493</rural_outflow>
+      <rural_balance>3 629</rural_balance>
+      <total_inflow>30 764</total_inflow>
+      <total_outflow>26 994</total_outflow>
+      <total_balance>3 770</total_balance>
+    </migration>
+  </year>
+ 
+
+ <year>
+    <value>2016</value>
+    <migration>
+      <urban_inflow>13 846</urban_inflow>
+      <urban_outflow>13 971</urban_outflow>
+      <urban_balance>-125</urban_balance>
+      <rural_inflow>15 741</rural_inflow>
+      <rural_outflow>12 240</rural_outflow>
+      <rural_balance>3 501</rural_balance>
+      <total_inflow>29 587</total_inflow>
+      <total_outflow>26 211</total_outflow>
+      <total_balance>3 376</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2017</value>
+    <migration>
+      <urban_inflow>15 203</urban_inflow>
+      <urban_outflow>15 243</urban_outflow>
+      <urban_balance>-40</urban_balance>
+      <rural_inflow>17 091</rural_inflow>
+      <rural_outflow>13 291</rural_outflow>
+      <rural_balance>3 800</rural_balance>
+      <total_inflow>32 294</total_inflow>
+      <total_outflow>28 534</total_outflow>
+      <total_balance>3 760</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2018</value>
+    <migration>
+      <urban_inflow>18 418</urban_inflow>
+      <urban_outflow>16 741</urban_outflow>
+      <urban_balance>1 677</urban_balance>
+      <rural_inflow>18 021</rural_inflow>
+      <rural_outflow>14 856</rural_outflow>
+      <rural_balance>3 165</rural_balance>
+      <total_inflow>36 439</total_inflow>
+      <total_outflow>31 597</total_outflow>
+      <total_balance>4 842</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2019</value>
+    <migration>
+      <urban_inflow>21 048</urban_inflow>
+      <urban_outflow>17 702</urban_outflow>
+      <urban_balance>3 346</urban_balance>
+      <rural_inflow>18 459</rural_inflow>
+      <rural_outflow>15 891</rural_outflow>
+      <rural_balance>2 568</rural_balance>
+      <total_inflow>39 507</total_inflow>
+      <total_outflow>33 593</total_outflow>
+      <total_balance>5 914</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2020</value>
+    <migration>
+      <urban_inflow>14 604</urban_inflow>
+      <urban_outflow>14 536</urban_outflow>
+      <urban_balance>68</urban_balance>
+      <rural_inflow>16 354</rural_inflow>
+      <rural_outflow>13 010</rural_outflow>
+      <rural_balance>3 344</rural_balance>
+      <total_inflow>30 958</total_inflow>
+      <total_outflow>27 546</total_outflow>
+      <total_balance>3 412</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2021</value>
+    <migration>
+      <urban_inflow>16 533</urban_inflow>
+      <urban_outflow>16 988</urban_outflow>
+      <urban_balance>-455</urban_balance>
+      <rural_inflow>19 653</rural_inflow>
+      <rural_outflow>15 086</rural_outflow>
+      <rural_balance>4 567</rural_balance>
+      <total_inflow>36 186</total_inflow>
+      <total_outflow>32 074</total_outflow>
+      <total_balance>4 112</total_balance>
+    </migration>
+  </year>
+</region>
+<region name="Mazowieckie">
+  <year>
+    <value>2011</value>
+    <migration>
+      <urban_inflow>42 639</urban_inflow>
+      <urban_outflow>35 439</urban_outflow>
+      <urban_balance>7 200</urban_balance>
+      <rural_inflow>25 962</rural_inflow>
+      <rural_outflow>19 462</rural_outflow>
+      <rural_balance>6 500</rural_balance>
+      <total_inflow>68 601</total_inflow>
+      <total_outflow>54 901</total_outflow>
+      <total_balance>13 700</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2012</value>
+    <migration>
+      <urban_inflow>39 760</urban_inflow>
+      <urban_outflow>32 979</urban_outflow>
+      <urban_balance>6 781</urban_balance>
+      <rural_inflow>24 896</rural_inflow>
+      <rural_outflow>18 875</rural_outflow>
+      <rural_balance>6 021</rural_balance>
+      <total_inflow>64 656</total_inflow>
+      <total_outflow>51 854</total_outflow>
+      <total_balance>12 802</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2013</value>
+    <migration>
+      <urban_inflow>42 589</urban_inflow>
+      <urban_outflow>35 267</urban_outflow>
+      <urban_balance>7 322</urban_balance>
+      <rural_inflow>26 393</rural_inflow>
+      <rural_outflow>20 258</rural_outflow>
+      <rural_balance>6 135</rural_balance>
+      <total_inflow>68 982</total_inflow>
+      <total_outflow>55 525</total_outflow>
+      <total_balance>13 457</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2014</value>
+    <migration>
+      <urban_inflow>42 476</urban_inflow>
+      <urban_outflow>34 192</urban_outflow>
+      <urban_balance>8 284</urban_balance>
+      <rural_inflow>25 476</rural_inflow>
+      <rural_outflow>20 619</rural_outflow>
+      <rural_balance>4 857</rural_balance>
+      <total_inflow>67 952</total_inflow>
+      <total_outflow>54 811</total_outflow>
+      <total_balance>13 141</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2015</value>
+    <migration>
+      <urban_inflow>39 662</urban_inflow>
+      <urban_outflow>31 407</urban_outflow>
+      <urban_balance>8 255</urban_balance>
+      <rural_inflow>23 459</rural_inflow>
+      <rural_outflow>19 329</rural_outflow>
+      <rural_balance>4 130</rural_balance>
+      <total_inflow>63 121</total_inflow>
+      <total_outflow>50 736</total_outflow>
+      <total_balance>12 385</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2016</value>
+    <migration>
+      <urban_inflow>36 686</urban_inflow>
+      <urban_outflow>29 983</urban_outflow>
+      <urban_balance>6 703</urban_balance>
+      <rural_inflow>22 975</rural_inflow>
+      <rural_outflow>18 511</rural_outflow>
+      <rural_balance>4 464</rural_balance>
+      <total_inflow>59 661</total_inflow>
+      <total_outflow>48 494</total_outflow>
+      <total_balance>11 167</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2017</value>
+    <migration>
+      <urban_inflow>39 770</urban_inflow>
+      <urban_outflow>32 153</urban_outflow>
+      <urban_balance>7 617</urban_balance>
+      <rural_inflow>24 167</rural_inflow>
+      <rural_outflow>19 755</rural_outflow>
+      <rural_balance>4 412</rural_balance>
+      <total_inflow>63 937</total_inflow>
+      <total_outflow>51 908</total_outflow>
+      <total_balance>12 029</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2018</value>
+    <migration>
+      <urban_inflow>46 831</urban_inflow>
+      <urban_outflow>36 903</urban_outflow>
+      <urban_balance>9 928</urban_balance>
+      <rural_inflow>27 163</rural_inflow>
+      <rural_outflow>22 405</rural_outflow>
+      <rural_balance>4 758</rural_balance>
+      <total_inflow>73 994</total_inflow>
+      <total_outflow>59 308</total_outflow>
+      <total_balance>14 686</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2019</value>
+    <migration>
+      <urban_inflow>48 922</urban_inflow>
+      <urban_outflow>39 646</urban_outflow>
+      <urban_balance>9 276</urban_balance>
+      <rural_inflow>29 644</rural_inflow>
+      <rural_outflow>23 143</rural_outflow>
+      <rural_balance>6 501</rural_balance>
+      <total_inflow>78 566</total_inflow>
+      <total_outflow>62 789</total_outflow>
+      <total_balance>15 777</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2020</value>
+    <migration>
+      <urban_inflow>36 309</urban_inflow>
+      <urban_outflow>33 019</urban_outflow>
+      <urban_balance>3 290</urban_balance>
+      <rural_inflow>26 099</rural_inflow>
+      <rural_outflow>18 941</rural_outflow>
+      <rural_balance>7 158</rural_balance>
+      <total_inflow>62 408</total_inflow>
+      <total_outflow>51 960</total_outflow>
+      <total_balance>10 448</total_balance>
+    </migration>
+  </year>
+  <year>
+    <value>2021</value>
+    <migration>
+      <urban_inflow>39 489</urban_inflow>
+      <urban_outflow>38 022</urban_outflow>
+      <urban_balance>1 467</urban_balance>
+      <rural_inflow>30 372</rural_inflow>
+      <rural_outflow>21 005</rural_outflow>
+      <rural_balance>9 367</rural_balance>
+      <total_inflow>69 861</total_inflow>
+      <total_outflow>59 027</total_outflow>
+      <total_balance>10 834</total_balance>
+    </migration>
+  </year>
+</region>
+
+
+<region name="Opolskie">
+  <year ><value>2011</value>
+    <migration>
+      <urban_inflow>4 608</urban_inflow>
+      <urban_outflow>6 101</urban_outflow>
+      <urban_balance>-1 493</urban_balance>
+      <rural_inflow>5 604</rural_inflow>
+      <rural_outflow>4 775</rural_outflow>
+      <rural_balance>829</rural_balance>
+      <total_inflow>10 212</total_inflow>
+      <total_outflow>10 876</total_outflow>
+      <total_balance>-664</total_balance>
+    </migration>
+  </year>
+  <year ><value>2012</value>
+    <migration>
+      <urban_inflow>4 610</urban_inflow>
+      <urban_outflow>5 784</urban_outflow>
+      <urban_balance>-1 174</urban_balance>
+      <rural_inflow>5 359</rural_inflow>
+      <rural_outflow>4 622</rural_outflow>
+      <rural_balance>737</rural_balance>
+      <total_inflow>9 969</total_inflow>
+      <total_outflow>10 406</total_outflow>
+      <total_balance>-437</total_balance>
+    </migration>
+  </year>
+  <year ><value>2013</value>
+    <migration>
+      <urban_inflow>4 620</urban_inflow>
+      <urban_outflow>6 176</urban_outflow>
+      <urban_balance>-1 556</urban_balance>
+      <rural_inflow>5 763</rural_inflow>
+      <rural_outflow>5 099</rural_outflow>
+      <rural_balance>664</rural_balance>
+      <total_inflow>10 383</total_inflow>
+      <total_outflow>11 275</total_outflow>
+      <total_balance>-892</total_balance>
+    </migration>
+  </year>
+  <year ><value>2014</value>
+    <migration>
+      <urban_inflow>4 491</urban_inflow>
+      <urban_outflow>5 802</urban_outflow>
+      <urban_balance>-1 311</urban_balance>
+      <rural_inflow>5 371</rural_inflow>
+      <rural_outflow>4 751</rural_outflow>
+      <rural_balance>620</rural_balance>
+      <total_inflow>9 862</total_inflow>
+      <total_outflow>10 553</total_outflow>
+      <total_balance>-691</total_balance>
+    </migration>
+  </year>
+  <year ><value>2015</value>
+    <migration>
+      <urban_inflow>4 137</urban_inflow>
+      <urban_outflow>5 368</urban_outflow>
+      <urban_balance>-1 231</urban_balance>
+      <rural_inflow>5 161</rural_inflow>
+      <rural_outflow>4 740</rural_outflow>
+      <rural_balance>421</rural_balance>
+      <total_inflow>9 298</total_inflow>
+      <total_outflow>10 108</total_outflow>
+      <total_balance>-810</total_balance>
+    </migration>
+  </year>
+  <year ><value>2016</value>
+    <migration>
+      <urban_inflow>4 245</urban_inflow>
+      <urban_outflow>5 106</urban_outflow>
+      <urban_balance>-861</urban_balance>
+      <rural_inflow>4 762</rural_inflow>
+      <rural_outflow>4 627</rural_outflow>
+      <rural_balance>135</rural_balance>
+      <total_inflow>9 007</total_inflow>
+      <total_outflow>9 733</total_outflow>
+      <total_balance>-726</total_balance>
+    </migration>
+  </year>
+  <year ><value>2017</value>
+    <migration>
+      <urban_inflow>4 489</urban_inflow>
+      <urban_outflow>5 310</urban_outflow>
+      <urban_balance>-821</urban_balance>
+      <rural_inflow>4 900</rural_inflow>
+      <rural_outflow>4 824</rural_outflow>
+      <rural_balance>76</rural_balance>
+      <total_inflow>9 389</total_inflow>
+      <total_outflow>10 134</total_outflow>
+      <total_balance>-745</total_balance>
+    </migration>
+  </year>
+  <year ><value>2018</value>
+    <migration>
+      <urban_inflow>5 151</urban_inflow>
+      <urban_outflow>6 054</urban_outflow>
+      <urban_balance>-903</urban_balance>
+      <rural_inflow>5 449</rural_inflow>
+      <rural_outflow>5 237</rural_outflow>
+      <rural_balance>212</rural_balance>
+      <total_inflow>10 600</total_inflow>
+      <total_outflow>11 291</total_outflow>
+      <total_balance>-691</total_balance>
+    </migration>
+  </year>
+  <year ><value>2019</value>
+    <migration>
+      <urban_inflow>5 026</urban_inflow>
+      <urban_outflow>6 221</urban_outflow>
+      <urban_balance>-1 195</urban_balance>
+      <rural_inflow>5 477</rural_inflow>
+      <rural_outflow>5 289</rural_outflow>
+      <rural_balance>188</rural_balance>
+      <total_inflow>10 503</total_inflow>
+      <total_outflow>11 510</total_outflow>
+      <total_balance>-1 007</total_balance>
+    </migration>
+  </year>
+  <year ><value>2020</value>
+    <migration>
+      <urban_inflow>4 138</urban_inflow>
+      <urban_outflow>5 401</urban_outflow>
+      <urban_balance>-1 263</urban_balance>
+      <rural_inflow>5 072</rural_inflow>
+      <rural_outflow>4 556</rural_outflow>
+      <rural_balance>516</rural_balance>
+      <total_inflow>9 210</total_inflow>
+      <total_outflow>9 957</total_outflow>
+      <total_balance>-747</total_balance>
+    </migration>
+  </year>
+  <year ><value>2021</value>
+    <migration>
+      <urban_inflow>4 324</urban_inflow>
+      <urban_outflow>5 960</urban_outflow>
+      <urban_balance>-1 636</urban_balance>
+      <rural_inflow>5 785</rural_inflow>
+      <rural_outflow>4 913</rural_outflow>
+      <rural_balance>872</rural_balance>
+      <total_inflow>10 109</total_inflow>
+      <total_outflow>10 873</total_outflow>
+      <total_balance>-764</total_balance>
+    </migration>
+  </year>
+</region>
+<region name="Podkarpackie">
+  <year ><value>2011</value>
+    <migration>
+      <urban_inflow>7 485</urban_inflow>
+      <urban_outflow>10 325</urban_outflow>
+      <urban_balance>-2 840</urban_balance>
+      <rural_inflow>11 177</rural_inflow>
+      <rural_outflow>10 549</rural_outflow>
+      <rural_balance>628</rural_balance>
+      <total_inflow>18 662</total_inflow>
+      <total_outflow>20 874</total_outflow>
+      <total_balance>-2 212</total_balance>
+    </migration>
+  </year>
+  <year ><value>2012</value>
+    <migration>
+      <urban_inflow>7 019</urban_inflow>
+      <urban_outflow>9 212</urban_outflow>
+      <urban_balance>-2 193</urban_balance>
+      <rural_inflow>10 197</rural_inflow>
+      <rural_outflow>9 951</rural_outflow>
+      <rural_balance>246</rural_balance>
+      <total_inflow>17 216</total_inflow>
+      <total_outflow>19 163</total_outflow>
+      <total_balance>-1 947</total_balance>
+    </migration>
+  </year>
+  <year ><value>2013</value>
+    <migration>
+      <urban_inflow>7 410</urban_inflow>
+      <urban_outflow>10 302</urban_outflow>
+      <urban_balance>-2 892</urban_balance>
+      <rural_inflow>11 650</rural_inflow>
+      <rural_outflow>11 031</rural_outflow>
+      <rural_balance>619</rural_balance>
+      <total_inflow>19 060</total_inflow>
+      <total_outflow>21 333</total_outflow>
+      <total_balance>-2 273</total_balance>
+    </migration>
+  </year>
+  <year ><value>2014</value>
+    <migration>
+      <urban_inflow>7 454</urban_inflow>
+      <urban_outflow>9 731</urban_outflow>
+      <urban_balance>-2 277</urban_balance>
+      <rural_inflow>10 844</rural_inflow>
+      <rural_outflow>10 508</rural_outflow>
+      <rural_balance>336</rural_balance>
+      <total_inflow>18 298</total_inflow>
+      <total_outflow>20 239</total_outflow>
+      <total_balance>-1 941</total_balance>
+    </migration>
+  </year>
+  <year ><value>2015</value>
+    <migration>
+      <urban_inflow>7 306</urban_inflow>
+      <urban_outflow>9 781</urban_outflow>
+      <urban_balance>-2 475</urban_balance>
+      <rural_inflow>10 656</rural_inflow>
+      <rural_outflow>10 581</rural_outflow>
+      <rural_balance>75</rural_balance>
+      <total_inflow>17 962</total_inflow>
+      <total_outflow>20 362</total_outflow>
+      <total_balance>-2 400</total_balance>
+    </migration>
+  </year>
+  <year ><value>2016</value>
+    <migration>
+      <urban_inflow>7 539</urban_inflow>
+      <urban_outflow>9 273</urban_outflow>
+      <urban_balance>-1 734</urban_balance>
+      <rural_inflow>10 471</rural_inflow>
+      <rural_outflow>10 784</rural_outflow>
+      <rural_balance>-313</rural_balance>
+      <total_inflow>18 010</total_inflow>
+      <total_outflow>20 057</total_outflow>
+      <total_balance>-2 047</total_balance>
+    </migration>
+  </year>
+  <year ><value>2017</value>
+    <migration>
+      <urban_inflow>8 553</urban_inflow>
+      <urban_outflow>10 230</urban_outflow>
+      <urban_balance>-1 677</urban_balance>
+      <rural_inflow>11 131</rural_inflow>
+      <rural_outflow>11 594</rural_outflow>
+      <rural_balance>-463</rural_balance>
+      <total_inflow>19 684</total_inflow>
+      <total_outflow>21 824</total_outflow>
+      <total_balance>-2 140</total_balance>
+    </migration>
+  </year>
+  <year ><value>2018</value>
+    <migration>
+      <urban_inflow>8 948</urban_inflow>
+      <urban_outflow>11 343</urban_outflow>
+      <urban_balance>-2 395</urban_balance>
+      <rural_inflow>11 728</rural_inflow>
+      <rural_outflow>12 452</rural_outflow>
+      <rural_balance>-724</rural_balance>
+      <total_inflow>20 676</total_inflow>
+      <total_outflow>23 795</total_outflow>
+      <total_balance>-3 119</total_balance>
+    </migration>
+  </year>
+  <year ><value>2019</value>
+    <migration>
+      <urban_inflow>9 712</urban_inflow>
+      <urban_outflow>11 760</urban_outflow>
+      <urban_balance>-2 048</urban_balance>
+      <rural_inflow>12 461</rural_inflow>
+      <rural_outflow>13 875</rural_outflow>
+      <rural_balance>-1 414</rural_balance>
+      <total_inflow>22 173</total_inflow>
+      <total_outflow>25 635</total_outflow>
+      <total_balance>-3 462</total_balance>
+    </migration>
+  </year>
+  <year ><value>2020</value>
+    <migration>
+      <urban_inflow>7 414</urban_inflow>
+      <urban_outflow>9 641</urban_outflow>
+      <urban_balance>-2 227</urban_balance>
+      <rural_inflow>10 922</rural_inflow>
+      <rural_outflow>10 921</rural_outflow>
+      <rural_balance>1</rural_balance>
+      <total_inflow>18 336</total_inflow>
+      <total_outflow>20 562</total_outflow>
+      <total_balance>-2 226</total_balance>
+    </migration>
+  </year>
+  <year ><value>2021</value>
+    <migration>
+      <urban_inflow>8 435</urban_inflow>
+      <urban_outflow>10 661</urban_outflow>
+      <urban_balance>-2 226</urban_balance>
+      <rural_inflow>12 105</rural_inflow>
+      <rural_outflow>12 076</rural_outflow>
+      <rural_balance>29</rural_balance>
+      <total_inflow>20 540</total_inflow>
+      <total_outflow>22 737</total_outflow>
+      <total_balance>-2 197</total_balance>
+    </migration>
+  </year>
+</region>
+<region name="Podlaskie">
+  <year ><value>2011</value>
+    <migration>
+      <urban_inflow>6 327</urban_inflow>
+      <urban_outflow>7 897</urban_outflow>
+      <urban_balance>-1 570</urban_balance>
+      <rural_inflow>5 535</rural_inflow>
+      <rural_outflow>5 863</rural_outflow>
+      <rural_balance>-328</rural_balance>
+      <total_inflow>11 862</total_inflow>
+      <total_outflow>13 760</total_outflow>
+      <total_balance>-1 898</total_balance>
+    </migration>
+  </year>
+  <year ><value>2012</value>
+    <migration>
+      <urban_inflow>6 061</urban_inflow>
+      <urban_outflow>7 470</urban_outflow>
+      <urban_balance>-1 409</urban_balance>
+      <rural_inflow>5 248</rural_inflow>
+      <rural_outflow>5 584</rural_outflow>
+      <rural_balance>-336</rural_balance>
+      <total_inflow>11 309</total_inflow>
+      <total_outflow>13 054</total_outflow>
+      <total_balance>-1 745</total_balance>
+    </migration>
+  </year>
+  <year ><value>2013</value>
+    <migration>
+      <urban_inflow>6 038</urban_inflow>
+      <urban_outflow>7 644</urban_outflow>
+      <urban_balance>-1 606</urban_balance>
+      <rural_inflow>5 241</rural_inflow>
+      <rural_outflow>5 688</rural_outflow>
+      <rural_balance>-447</rural_balance>
+      <total_inflow>11 279</total_inflow>
+      <total_outflow>13 332</total_outflow>
+      <total_balance>-2 053</total_balance>
+    </migration>
+  </year>
+  <year ><value>2014</value>
+    <migration>
+      <urban_inflow>6 211</urban_inflow>
+      <urban_outflow>7 493</urban_outflow>
+      <urban_balance>-1 282</urban_balance>
+      <rural_inflow>5 083</rural_inflow>
+      <rural_outflow>5 713</rural_outflow>
+      <rural_balance>-630</rural_balance>
+      <total_inflow>11 294</total_inflow>
+      <total_outflow>13 206</total_outflow>
+      <total_balance>-1 912</total_balance>
+    </migration>
+  </year>
+  <year ><value>2015</value>
+    <migration>
+      <urban_inflow>5 706</urban_inflow>
+      <urban_outflow>7 080</urban_outflow>
+      <urban_balance>-1 374</urban_balance>
+      <rural_inflow>4 713</rural_inflow>
+      <rural_outflow>5 246</rural_outflow>
+      <rural_balance>-533</rural_balance>
+      <total_inflow>10 419</total_inflow>
+      <total_outflow>12 326</total_outflow>
+      <total_balance>-1 907</total_balance>
+    </migration>
+  </year>
+  <year ><value>2016</value>
+    <migration>
+      <urban_inflow>6 032</urban_inflow>
+      <urban_outflow>7 172</urban_outflow>
+      <urban_balance>-1 140</urban_balance>
+      <rural_inflow>4 874</rural_inflow>
+      <rural_outflow>5 299</rural_outflow>
+      <rural_balance>-425</rural_balance>
+      <total_inflow>10 906</total_inflow>
+      <total_outflow>12 471</total_outflow>
+      <total_balance>-1 565</total_balance>
+    </migration>
+  </year>
+  <year ><value>2017</value>
+    <migration>
+      <urban_inflow>6 094</urban_inflow>
+      <urban_outflow>7 542</urban_outflow>
+      <urban_balance>-1 448</urban_balance>
+      <rural_inflow>5 133</rural_inflow>
+      <rural_outflow>5 551</rural_outflow>
+      <rural_balance>-418</rural_balance>
+      <total_inflow>11 227</total_inflow>
+      <total_outflow>13 093</total_outflow>
+      <total_balance>-1 866</total_balance>
+    </migration>
+  </year>
+  <year ><value>2018</value>
+    <migration>
+      <urban_inflow>7 053</urban_inflow>
+      <urban_outflow>8 695</urban_outflow>
+      <urban_balance>-1 642</urban_balance>
+      <rural_inflow>5 660</rural_inflow>
+      <rural_outflow>6 299</rural_outflow>
+      <rural_balance>-639</rural_balance>
+      <total_inflow>12 713</total_inflow>
+      <total_outflow>14 994</total_outflow>
+      <total_balance>-2 281</total_balance>
+    </migration>
+  </year>
+  <year ><value>2019</value>
+    <migration>
+      <urban_inflow>6 907</urban_inflow>
+      <urban_outflow>9 036</urban_outflow>
+      <urban_balance>-2 129</urban_balance>
+      <rural_inflow>6 031</rural_inflow>
+      <rural_outflow>6 361</rural_outflow>
+      <rural_balance>-330</rural_balance>
+      <total_inflow>12 938</total_inflow>
+      <total_outflow>15 397</total_outflow>
+      <total_balance>-2 459</total_balance>
+    </migration>
+  </year>
+  <year ><value>2020</value>
+    <migration>
+      <urban_inflow>5 468</urban_inflow>
+      <urban_outflow>7 536</urban_outflow>
+      <urban_balance>-2 068</urban_balance>
+      <rural_inflow>5 450</rural_inflow>
+      <rural_outflow>5 084</rural_outflow>
+      <rural_balance>366</rural_balance>
+      <total_inflow>10 918</total_inflow>
+      <total_outflow>12 620</total_outflow>
+      <total_balance>-1 702</total_balance>
+    </migration>
+  </year>
+  <year ><value>2021</value>
+    <migration>
+      <urban_inflow>5 953</urban_inflow>
+      <urban_outflow>8 249</urban_outflow>
+      <urban_balance>-2 296</urban_balance>
+      <rural_inflow>6 248</rural_inflow>
+      <rural_outflow>5 609</rural_outflow>
+      <rural_balance>639</rural_balance>
+      <total_inflow>12 201</total_inflow>
+      <total_outflow>13 858</total_outflow>
+      <total_balance>-1 657</total_balance>
+    </migration>
+  </year>
+</region>
+<region name="Pomorskie">
+  <year ><value>2011</value>
+    <migration>
+      <urban_inflow>16 395</urban_inflow>
+      <urban_outflow>18 235</urban_outflow>
+      <urban_balance>-1 840</urban_balance>
+      <rural_inflow>13 632</rural_inflow>
+      <rural_outflow>9 174</rural_outflow>
+      <rural_balance>4 458</rural_balance>
+      <total_inflow>30 027</total_inflow>
+      <total_outflow>27 409</total_outflow>
+      <total_balance>2 618</total_balance>
+    </migration>
+  </year>
+  <year ><value>2012</value>
+    <migration>
+      <urban_inflow>15 060</urban_inflow>
+      <urban_outflow>16 449</urban_outflow>
+      <urban_balance>-1 389</urban_balance>
+      <rural_inflow>12 195</rural_inflow>
+      <rural_outflow>8 369</rural_outflow>
+      <rural_balance>3 826</rural_balance>
+      <total_inflow>27 255</total_inflow>
+      <total_outflow>24 818</total_outflow>
+      <total_balance>2 437</total_balance>
+    </migration>
+  </year>
+  <year ><value>2013</value>
+    <migration>
+      <urban_inflow>17 012</urban_inflow>
+      <urban_outflow>17 946</urban_outflow>
+      <urban_balance>-934</urban_balance>
+      <rural_inflow>13 788</rural_inflow>
+      <rural_outflow>9 614</rural_outflow>
+      <rural_balance>4 174</rural_balance>
+      <total_inflow>30 800</total_inflow>
+      <total_outflow>27 560</total_outflow>
+      <total_balance>3 240</total_balance>
+    </migration>
+  </year>
+  <year ><value>2014</value>
+    <migration>
+      <urban_inflow>16 244</urban_inflow>
+      <urban_outflow>16 785</urban_outflow>
+      <urban_balance>-541</urban_balance>
+      <rural_inflow>13 000</rural_inflow>
+      <rural_outflow>9 400</rural_outflow>
+      <rural_balance>3 600</rural_balance>
+      <total_inflow>29 244</total_inflow>
+      <total_outflow>26 185</total_outflow>
+      <total_balance>3 059</total_balance>
+    </migration>
+  </year>
+  <year ><value>2015</value>
+    <migration>
+      <urban_inflow>16 149</urban_inflow>
+      <urban_outflow>16 130</urban_outflow>
+      <urban_balance>19</urban_balance>
+      <rural_inflow>12 807</rural_inflow>
+      <rural_outflow>9 482</rural_outflow>
+      <rural_balance>3 325</rural_balance>
+      <total_inflow>28 956</total_inflow>
+      <total_outflow>25 612</total_outflow>
+      <total_balance>3 344</total_balance>
+    </migration>
+  </year>
+  <year ><value>2016</value>
+    <migration>
+      <urban_inflow>15 358</urban_inflow>
+      <urban_outflow>15 598</urban_outflow>
+      <urban_balance>-240</urban_balance>
+      <rural_inflow>12 980</rural_inflow>
+      <rural_outflow>9 255</rural_outflow>
+      <rural_balance>3 725</rural_balance>
+      <total_inflow>28 338</total_inflow>
+      <total_outflow>24 853</total_outflow>
+      <total_balance>3 485</total_balance>
+    </migration>
+  </year>
+  <year ><value>2017</value>
+    <migration>
+      <urban_inflow>15 993</urban_inflow>
+      <urban_outflow>16 928</urban_outflow>
+      <urban_balance>-935</urban_balance>
+      <rural_inflow>13 959</rural_inflow>
+      <rural_outflow>9 399</rural_outflow>
+      <rural_balance>4 560</rural_balance>
+      <total_inflow>29 952</total_inflow>
+      <total_outflow>26 327</total_outflow>
+      <total_balance>3 625</total_balance>
+    </migration>
+  </year>
+  <year ><value>2018</value>
+    <migration>
+      <urban_inflow>19 088</urban_inflow>
+      <urban_outflow>18 675</urban_outflow>
+      <urban_balance>413</urban_balance>
+      <rural_inflow>15 731</rural_inflow>
+      <rural_outflow>11 224</rural_outflow>
+      <rural_balance>4 507</rural_balance>
+      <total_inflow>34 819</total_inflow>
+      <total_outflow>29 899</total_outflow>
+      <total_balance>4 920</total_balance>
+    </migration>
+  </year>
+  <year ><value>2019</value>
+    <migration>
+      <urban_inflow>20 008</urban_inflow>
+      <urban_outflow>18 703</urban_outflow>
+      <urban_balance>1 305</urban_balance>
+      <rural_inflow>15 895</rural_inflow>
+      <rural_outflow>11 247</rural_outflow>
+      <rural_balance>4 648</rural_balance>
+      <total_inflow>35 903</total_inflow>
+      <total_outflow>29 950</total_outflow>
+      <total_balance>5 953</total_balance>
+    </migration>
+  </year>
+  <year ><value>2020</value>
+    <migration>
+      <urban_inflow>14 315</urban_inflow>
+      <urban_outflow>15 580</urban_outflow>
+      <urban_balance>-1 265</urban_balance>
+      <rural_inflow>14 269</rural_inflow>
+      <rural_outflow>9 179</rural_outflow>
+      <rural_balance>5 090</rural_balance>
+      <total_inflow>28 584</total_inflow>
+      <total_outflow>24 759</total_outflow>
+      <total_balance>3 825</total_balance>
+    </migration>
+  </year>
+  <year ><value>2021</value>
+    <migration>
+      <urban_inflow>16 153</urban_inflow>
+      <urban_outflow>17 505</urban_outflow>
+      <urban_balance>-1 352</urban_balance>
+      <rural_inflow>15 971</rural_inflow>
+      <rural_outflow>10 028</rural_outflow>
+      <rural_balance>5 943</rural_balance>
+      <total_inflow>32 124</total_inflow>
+      <total_outflow>27 533</total_outflow>
+      <total_balance>4 591</total_balance>
+    </migration>
+  </year>
+</region>
+<region name="Śląskie">
+  <year ><value>2011</value>
+    <migration>
+      <urban_inflow>30 297</urban_inflow>
+      <urban_outflow>38 354</urban_outflow>
+      <urban_balance>-8 057</urban_balance>
+      <rural_inflow>13 436</rural_inflow>
+      <rural_outflow>9 031</rural_outflow>
+      <rural_balance>4 405</rural_balance>
+      <total_inflow>43 733</total_inflow>
+      <total_outflow>47 385</total_outflow>
+      <total_balance>-3 652</total_balance>
+    </migration>
+  </year>
+  <year ><value>2012</value>
+    <migration>
+      <urban_inflow>29 072</urban_inflow>
+      <urban_outflow>36 650</urban_outflow>
+      <urban_balance>-7 578</urban_balance>
+      <rural_inflow>12 977</rural_inflow>
+      <rural_outflow>8 697</rural_outflow>
+      <rural_balance>4 280</rural_balance>
+      <total_inflow>42 049</total_inflow>
+      <total_outflow>45 347</total_outflow>
+      <total_balance>-3 298</total_balance>
+    </migration>
+  </year>
+  <year ><value>2013</value>
+    <migration>
+      <urban_inflow>30 570</urban_inflow>
+      <urban_outflow>39 274</urban_outflow>
+      <urban_balance>-8 704</urban_balance>
+      <rural_inflow>14 524</rural_inflow>
+      <rural_outflow>9 700</rural_outflow>
+      <rural_balance>4 824</rural_balance>
+      <total_inflow>45 094</total_inflow>
+      <total_outflow>48 974</total_outflow>
+      <total_balance>-3 880</total_balance>
+    </migration>
+  </year>
+  <year ><value>2014</value>
+    <migration>
+      <urban_inflow>29 099</urban_inflow>
+      <urban_outflow>36 468</urban_outflow>
+      <urban_balance>-7 369</urban_balance>
+      <rural_inflow>12 682</rural_inflow>
+      <rural_outflow>8 946</rural_outflow>
+      <rural_balance>3 736</rural_balance>
+      <total_inflow>41 781</total_inflow>
+      <total_outflow>45 414</total_outflow>
+      <total_balance>-3 633</total_balance>
+    </migration>
+  </year>
+  <year ><value>2015</value>
+    <migration>
+      <urban_inflow>27 512</urban_inflow>
+      <urban_outflow>34 038</urban_outflow>
+      <urban_balance>-6 526</urban_balance>
+      <rural_inflow>11 912</rural_inflow>
+      <rural_outflow>8 835</rural_outflow>
+      <rural_balance>3 077</rural_balance>
+      <total_inflow>39 424</total_inflow>
+      <total_outflow>42 873</total_outflow>
+      <total_balance>-3 449</total_balance>
+    </migration>
+  </year>
+  <year ><value>2016</value>
+    <migration>
+      <urban_inflow>26 488</urban_inflow>
+
+
+      <urban_outflow>33 108</urban_outflow>
+      <urban_balance>-6 620</urban_balance>
+      <rural_inflow>11 926</rural_inflow>
+      <rural_outflow>8 734</rural_outflow>
+      <rural_balance>3 192</rural_balance>
+      <total_inflow>38 414</total_inflow>
+      <total_outflow>41 842</total_outflow>
+      <total_balance>-3 428</total_balance>
+    </migration>
+  </year>
+  <year ><value>2017</value>
+    <migration>
+      <urban_inflow>27 953</urban_inflow>
+      <urban_outflow>34 342</urban_outflow>
+      <urban_balance>-6 389</urban_balance>
+      <rural_inflow>12 450</rural_inflow>
+      <rural_outflow>9 321</rural_outflow>
+      <rural_balance>3 129</rural_balance>
+      <total_inflow>40 403</total_inflow>
+      <total_outflow>43 663</total_outflow>
+      <total_balance>-3 260</total_balance>
+    </migration>
+  </year>
+  <year ><value>2018</value>
+    <migration>
+      <urban_inflow>30 416</urban_inflow>
+      <urban_outflow>37 795</urban_outflow>
+      <urban_balance>-7 379</urban_balance>
+      <rural_inflow>13 429</rural_inflow>
+      <rural_outflow>10 281</rural_outflow>
+      <rural_balance>3 148</rural_balance>
+      <total_inflow>43 845</total_inflow>
+      <total_outflow>48 076</total_outflow>
+      <total_balance>-4 231</total_balance>
+    </migration>
+  </year>
+  <year ><value>2019</value>
+    <migration>
+      <urban_inflow>30 909</urban_inflow>
+      <urban_outflow>38 538</urban_outflow>
+      <urban_balance>-7 629</urban_balance>
+      <rural_inflow>14 111</rural_inflow>
+      <rural_outflow>10 757</rural_outflow>
+      <rural_balance>3 354</rural_balance>
+      <total_inflow>45 020</total_inflow>
+      <total_outflow>49 295</total_outflow>
+      <total_balance>-4 275</total_balance>
+    </migration>
+  </year>
+  <year ><value>2020</value>
+    <migration>
+      <urban_inflow>25 308</urban_inflow>
+      <urban_outflow>32 092</urban_outflow>
+      <urban_balance>-6 784</urban_balance>
+      <rural_inflow>12 271</rural_inflow>
+      <rural_outflow>8 829</rural_outflow>
+      <rural_balance>3 442</rural_balance>
+      <total_inflow>37 579</total_inflow>
+      <total_outflow>40 921</total_outflow>
+      <total_balance>-3 342</total_balance>
+    </migration>
+  </year>
+  <year ><value>2021</value>
+    <migration>
+      <urban_inflow>28 502</urban_inflow>
+      <urban_outflow>36 078</urban_outflow>
+      <urban_balance>-7 576</urban_balance>
+      <rural_inflow>13 958</rural_inflow>
+      <rural_outflow>10 072</rural_outflow>
+      <rural_balance>3 886</rural_balance>
+      <total_inflow>42 460</total_inflow>
+      <total_outflow>46 150</total_outflow>
+      <total_balance>-3 690</total_balance>
+    </migration>
+  </year>
+</region>
+<region name="Świętokrzyskie">
+  <year ><value>2011</value>
+    <migration>
+      <urban_inflow>4 132</urban_inflow>
+      <urban_outflow>6 937</urban_outflow>
+      <urban_balance>-2 805</urban_balance>
+      <rural_inflow>6 573</rural_inflow>
+      <rural_outflow>6 176</rural_outflow>
+      <rural_balance>397</rural_balance>
+      <total_inflow>10 705</total_inflow>
+      <total_outflow>13 113</total_outflow>
+      <total_balance>-2 408</total_balance>
+    </migration>
+  </year>
+  <year ><value>2012</value>
+    <migration>
+      <urban_inflow>3 809</urban_inflow>
+      <urban_outflow>6 422</urban_outflow>
+      <urban_balance>-2 613</urban_balance>
+      <rural_inflow>6 172</rural_inflow>
+      <rural_outflow>5 739</rural_outflow>
+      <rural_balance>433</rural_balance>
+      <total_inflow>9 981</total_inflow>
+      <total_outflow>12 161</total_outflow>
+      <total_balance>-2 180</total_balance>
+    </migration>
+  </year>
+  <year ><value>2013</value>
+    <migration>
+      <urban_inflow>3 934</urban_inflow>
+      <urban_outflow>6 710</urban_outflow>
+      <urban_balance>-2 776</urban_balance>
+      <rural_inflow>6 599</rural_inflow>
+      <rural_outflow>6 441</rural_outflow>
+      <rural_balance>158</rural_balance>
+      <total_inflow>10 533</total_inflow>
+      <total_outflow>13 151</total_outflow>
+      <total_balance>-2 618</total_balance>
+    </migration>
+  </year>
+  <year ><value>2014</value>
+    <migration>
+      <urban_inflow>3 703</urban_inflow>
+      <urban_outflow>6 398</urban_outflow>
+      <urban_balance>-2 695</urban_balance>
+      <rural_inflow>6 143</rural_inflow>
+      <rural_outflow>5 912</rural_outflow>
+      <rural_balance>231</rural_balance>
+      <total_inflow>9 846</total_inflow>
+      <total_outflow>12 310</total_outflow>
+      <total_balance>-2 464</total_balance>
+    </migration>
+  </year>
+  <year ><value>2015</value>
+    <migration>
+      <urban_inflow>3 646</urban_inflow>
+      <urban_outflow>5 991</urban_outflow>
+      <urban_balance>-2 345</urban_balance>
+      <rural_inflow>6 100</rural_inflow>
+      <rural_outflow>6 023</rural_outflow>
+      <rural_balance>77</rural_balance>
+      <total_inflow>9 746</total_inflow>
+      <total_outflow>12 014</total_outflow>
+      <total_balance>-2 268</total_balance>
+    </migration>
+  </year>
+  <year ><value>2016</value>
+    <migration>
+      <urban_inflow>3 771</urban_inflow>
+      <urban_outflow>5 589</urban_outflow>
+      <urban_balance>-1 818</urban_balance>
+      <rural_inflow>5 760</rural_inflow>
+      <rural_outflow>5 913</rural_outflow>
+      <rural_balance>-153</rural_balance>
+      <total_inflow>9 531</total_inflow>
+      <total_outflow>11 502</total_outflow>
+      <total_balance>-1 971</total_balance>
+    </migration>
+  </year>
+  <year ><value>2017</value>
+    <migration>
+      <urban_inflow>3 680</urban_inflow>
+      <urban_outflow>6 093</urban_outflow>
+      <urban_balance>-2 413</urban_balance>
+      <rural_inflow>6 265</rural_inflow>
+      <rural_outflow>6 278</rural_outflow>
+      <rural_balance>-13</rural_balance>
+      <total_inflow>9 945</total_inflow>
+      <total_outflow>12 371</total_outflow>
+      <total_balance>-2 426</total_balance>
+    </migration>
+  </year>
+  <year ><value>2018</value>
+    <migration>
+      <urban_inflow>4 434</urban_inflow>
+      <urban_outflow>6 847</urban_outflow>
+      <urban_balance>-2 413</urban_balance>
+      <rural_inflow>6 846</rural_inflow>
+      <rural_outflow>7 061</rural_outflow>
+      <rural_balance>-215</rural_balance>
+      <total_inflow>11 280</total_inflow>
+      <total_outflow>13 908</total_outflow>
+      <total_balance>-2 628</total_balance>
+    </migration>
+  </year>
+  <year ><value>2019</value>
+    <migration>
+      <urban_inflow>4 335</urban_inflow>
+      <urban_outflow>7 363</urban_outflow>
+      <urban_balance>-3 028</urban_balance>
+      <rural_inflow>6 581</rural_inflow>
+      <rural_outflow>7 272</rural_outflow>
+      <rural_balance>-691</rural_balance>
+      <total_inflow>10 916</total_inflow>
+      <total_outflow>14 635</total_outflow>
+      <total_balance>-3 719</total_balance>
+    </migration>
+  </year>
+  <year ><value>2020</value>
+    <migration>
+      <urban_inflow>3 563</urban_inflow>
+      <urban_outflow>5 688</urban_outflow>
+      <urban_balance>-2 125</urban_balance>
+      <rural_inflow>5 689</rural_inflow>
+      <rural_outflow>5 707</rural_outflow>
+      <rural_balance>-18</rural_balance>
+      <total_inflow>9 252</total_inflow>
+      <total_outflow>11 395</total_outflow>
+      <total_balance>-2 143</total_balance>
+    </migration>
+  </year>
+  <year ><value>2021</value>
+    <migration>
+      <urban_inflow>3 915</urban_inflow>
+      <urban_outflow>6 448</urban_outflow>
+      <urban_balance>-2 533</urban_balance>
+      <rural_inflow>6 493</rural_inflow>
+      <rural_outflow>6 381</rural_outflow>
+      <rural_balance>112</rural_balance>
+      <total_inflow>10 408</total_inflow>
+      <total_outflow>12 829</total_outflow>
+      <total_balance>-2 421</total_balance>
+    </migration>
+  </year>
+</region>
+<region name="Warmińsko-mazurskie">
+  <year ><value>2011</value>
+    <migration>
+      <urban_inflow>8 355</urban_inflow>
+      <urban_outflow>10 992</urban_outflow>
+      <urban_balance>-2 637</urban_balance>
+      <rural_inflow>7 865</rural_inflow>
+      <rural_outflow>8 180</rural_outflow>
+      <rural_balance>-315</rural_balance>
+      <total_inflow>16 220</total_inflow>
+      <total_outflow>19 172</total_outflow>
+      <total_balance>-2 952</total_balance>
+    </migration>
+  </year>
+  <year ><value>2012</value>
+    <migration>
+      <urban_inflow>8 171</urban_inflow>
+      <urban_outflow>9 772</urban_outflow>
+      <urban_balance>-1 601</urban_balance>
+      <rural_inflow>6 953</rural_inflow>
+      <rural_outflow>7 765</rural_outflow>
+      <rural_balance>-812</rural_balance>
+      <total_inflow>15 124</total_inflow>
+      <total_outflow>17 537</total_outflow>
+      <total_balance>-2 413</total_balance>
+    </migration>
+  </year>
+  <year ><value>2013</value>
+    <migration>
+      <urban_inflow>8 776</urban_inflow>
+      <urban_outflow>10 579</urban_outflow>
+      <urban_balance>-1 803</urban_balance>
+      <rural_inflow>7 684</rural_inflow>
+      <rural_outflow>8 588</rural_outflow>
+      <rural_balance>-904</rural_balance>
+      <total_inflow>16 460</total_inflow>
+      <total_outflow>19 167</total_outflow>
+      <total_balance>-2 707</total_balance>
+    </migration>
+  </year>
+  <year ><value>2014</value>
+    <migration>
+      <urban_inflow>8 379</urban_inflow>
+      <urban_outflow>10 092</urban_outflow>
+      <urban_balance>-1 713</urban_balance>
+      <rural_inflow>7 568</rural_inflow>
+      <rural_outflow>8 649</rural_outflow>
+      <rural_balance>-1 081</rural_balance>
+      <total_inflow>15 947</total_inflow>
+      <total_outflow>18 741</total_outflow>
+      <total_balance>-2 794</total_balance>
+    </migration>
+  </year>
+  <year ><value>2015</value>
+    <migration>
+      <urban_inflow>8 148</urban_inflow>
+      <urban_outflow>9 385</urban_outflow>
+      <urban_balance>-1 237</urban_balance>
+      <rural_inflow>6 807</rural_inflow>
+      <rural_outflow>8 179</rural_outflow>
+      <rural_balance>-1 372</rural_balance>
+      <total_inflow>14 955</total_inflow>
+      <total_outflow>17 564</total_outflow>
+      <total_balance>-2 609</total_balance>
+    </migration>
+  </year>
+  <year ><value>2016</value>
+    <migration>
+      <urban_inflow>7 756</urban_inflow>
+      <urban_outflow>9 139</urban_outflow>
+      <urban_balance>-1 383</urban_balance>
+      <rural_inflow>6 642</rural_inflow>
+      <rural_outflow>7 962</rural_outflow>
+      <rural_balance>-1 320</rural_balance>
+      <total_inflow>14 398</total_inflow>
+      <total_outflow>17 101</total_outflow>
+      <total_balance>-2 703</total_balance>
+    </migration>
+  </year>
+  <year ><value>2017</value>
+    <migration>
+      <urban_inflow>8 493</urban_inflow>
+      <urban_outflow>9 484</urban_outflow>
+      <urban_balance>-991</urban_balance>
+      <rural_inflow>7 192</rural_inflow>
+      <rural_outflow>8 644</rural_outflow>
+      <rural_balance>-1 452</rural_balance>
+      <total_inflow>15 685</total_inflow>
+      <total_outflow>18 128</total_outflow>
+      <total_balance>-2 443</total_balance>
+    </migration>
+  </year>
+  <year ><value>2018</value>
+    <migration>
+      <urban_inflow>9 458</urban_inflow>
+      <urban_outflow>11 589</urban_outflow>
+      <urban_balance>-2 131</urban_balance>
+      <rural_inflow>8 336</rural_inflow>
+      <rural_outflow>9 602</rural_outflow>
+      <rural_balance>-1 266</rural_balance>
+      <total_inflow>17 794</total_inflow>
+      <total_outflow>21 191</total_outflow>
+      <total_balance>-3 397</total_balance>
+    </migration>
+  </year>
+  <year ><value>2019</value>
+    <migration>
+      <urban_inflow>9 361</urban_inflow>
+      <urban_outflow>11 857</urban_outflow>
+      <urban_balance>-2 496</urban_balance>
+      <rural_inflow>8 662</rural_inflow>
+      <rural_outflow>9 937</rural_outflow>
+      <rural_balance>-1 275</rural_balance>
+      <total_inflow>18 023</total_inflow>
+      <total_outflow>21 794</total_outflow>
+      <total_balance>-3 771</total_balance>
+    </migration>
+  </year>
+  <year ><value>2020</value>
+    <migration>
+      <urban_inflow>7 809</urban_inflow>
+      <urban_outflow>9 681</urban_outflow>
+      <urban_balance>-1 872</urban_balance>
+      <rural_inflow>7 681</rural_inflow>
+      <rural_outflow>7 922</rural_outflow>
+      <rural_balance>-241</rural_balance>
+      <total_inflow>15 490</total_inflow>
+      <total_outflow>17 603</total_outflow>
+      <total_balance>-2 113</total_balance>
+    </migration>
+  </year>
+  <year ><value>2021</value>
+    <migration>
+      <urban_inflow>7 807</urban_inflow>
+      <urban_outflow>9 938</urban_outflow>
+      <urban_balance>-2 131</urban_balance>
+      <rural_inflow>8 200</rural_inflow>
+      <rural_outflow>8 460</rural_outflow>
+      <rural_balance>-260</rural_balance>
+      <total_inflow>16 007</total_inflow>
+      <total_outflow>18 398</total_outflow>
+      <total_balance>-2 391</total_balance>
+    </migration>
+  </year>
+</region>
+<region name="Wielkopolskie">
+  <year ><value>2011</value>
+    <migration>
+      <urban_inflow>18 770</urban_inflow>
+      <urban_outflow>24 279</urban_outflow>
+      <urban_balance>-5 509</urban_balance>
+      <rural_inflow>23 560</rural_inflow>
+      <rural_outflow>16 164</rural_outflow>
+      <rural_balance>7 396</rural_balance>
+      <total_inflow>42 330</total_inflow>
+      <total_outflow>40 443</total_outflow>
+      <total_balance>1 887</total_balance>
+    </migration>
+  </year>
+  <year ><value>2012</value>
+    <migration>
+      <urban_inflow>17 563</urban_inflow>
+      <urban_outflow>22 765</urban_outflow>
+      <urban_balance>-5 202</urban_balance>
+      <rural_inflow>22 581</rural_inflow>
+      <rural_outflow>16 018</rural_outflow>
+      <rural_balance>6 563</rural_balance>
+      <total_inflow>40 144</total_inflow>
+      <total_outflow>38 783</total_outflow>
+      <total_balance>1 361</total_balance>
+    </migration>
+  </year>
+  <year ><value>2013</value>
+    <migration>
+      <urban_inflow>19 483</urban_inflow>
+      <urban_outflow>25 181</urban_outflow>
+      <urban_balance>-5 698</urban_balance>
+      <rural_inflow>25 005</rural_inflow>
+      <rural_outflow>17 662</rural_outflow>
+      <rural_balance>7 343</rural_balance>
+      <total_inflow>44 488</total_inflow>
+      <total_outflow>42 843</total_outflow>
+      <total_balance>1 645</total_balance>
+    </migration>
+  </year>
+  <year ><value>2014</value>
+    <migration>
+      <urban_inflow>18 449</urban_inflow>
+      <urban_outflow>22 827</urban_outflow>
+      <urban_balance>-4 378</urban_balance>
+      <rural_inflow>22 843</rural_inflow>
+      <rural_outflow>17 084</rural_outflow>
+      <rural_balance>5 759</rural_balance>
+      <total_inflow>41 292</total_inflow>
+      <total_outflow>39 911</total_outflow>
+      <total_balance>1 381</total_balance>
+    </migration>
+  </year>
+  <year ><value>2015</value>
+    <migration>
+      <urban_inflow>17 457</urban_inflow>
+      <urban_outflow>22 169</urban_outflow>
+      <urban_balance>-4 712</urban_balance>
+      <rural_inflow>22 890</rural_inflow>
+      <rural_outflow>16 971</rural_outflow>
+      <rural_balance>5 919</rural_balance>
+      <total_inflow>40 347</total_inflow>
+      <total_outflow>39 140</total_outflow>
+      <total_balance>1 207</total_balance>
+    </migration>
+  </year>
+  <year ><value>2016</value>
+    <migration>
+      <urban_inflow>16 843</urban_inflow>
+ <urban_outflow>21 986</urban_outflow>
+      <urban_balance>-5 143</urban_balance>
+      <rural_inflow>22 972</rural_inflow>
+      <rural_outflow>16 846</rural_outflow>
+      <rural_balance>6 126</rural_balance>
+      <total_inflow>39 815</total_inflow>
+      <total_outflow>38 832</total_outflow>
+      <total_balance>983</total_balance>
+    </migration>
+  </year>
+  <year ><value>2017</value>
+    <migration>
+      <urban_inflow>17 299</urban_inflow>
+      <urban_outflow>22 704</urban_outflow>
+      <urban_balance>-5 405</urban_balance>
+      <rural_inflow>23 915</rural_inflow>
+      <rural_outflow>17 495</rural_outflow>
+      <rural_balance>6 420</rural_balance>
+      <total_inflow>41 214</total_inflow>
+      <total_outflow>40 199</total_outflow>
+      <total_balance>1 015</total_balance>
+    </migration>
+  </year>
+  <year ><value>2018</value>
+    <migration>
+      <urban_inflow>19 323</urban_inflow>
+      <urban_outflow>25 642</urban_outflow>
+      <urban_balance>-6 319</urban_balance>
+      <rural_inflow>26 509</rural_inflow>
+      <rural_outflow>19 069</rural_outflow>
+      <rural_balance>7 440</rural_balance>
+      <total_inflow>45 832</total_inflow>
+      <total_outflow>44 711</total_outflow>
+      <total_balance>1 121</total_balance>
+    </migration>
+  </year>
+  <year ><value>2019</value>
+    <migration>
+      <urban_inflow>19 965</urban_inflow>
+      <urban_outflow>26 736</urban_outflow>
+      <urban_balance>-6 771</urban_balance>
+      <rural_inflow>28 019</rural_inflow>
+      <rural_outflow>20 045</rural_outflow>
+      <rural_balance>7 974</rural_balance>
+      <total_inflow>47 984</total_inflow>
+      <total_outflow>46 781</total_outflow>
+      <total_balance>1 203</total_balance>
+    </migration>
+  </year>
+  <year ><value>2020</value>
+    <migration>
+      <urban_inflow>15 949</urban_inflow>
+      <urban_outflow>22 131</urban_outflow>
+      <urban_balance>-6 182</urban_balance>
+      <rural_inflow>24 230</rural_inflow>
+      <rural_outflow>16 557</rural_outflow>
+      <rural_balance>7 673</rural_balance>
+      <total_inflow>40 179</total_inflow>
+      <total_outflow>38 688</total_outflow>
+      <total_balance>1 491</total_balance>
+    </migration>
+  </year>
+  <year ><value>2021</value>
+    <migration>
+      <urban_inflow>16 977</urban_inflow>
+      <urban_outflow>24 186</urban_outflow>
+      <urban_balance>-7 209</urban_balance>
+      <rural_inflow>27 296</rural_inflow>
+      <rural_outflow>18 288</rural_outflow>
+      <rural_balance>9 008</rural_balance>
+      <total_inflow>44 273</total_inflow>
+      <total_outflow>42 474</total_outflow>
+      <total_balance>1 799</total_balance>
+    </migration>
+  </year>
+</region>
+<region name="Zachodniopomorskie">
+  <year ><value>2011</value>
+    <migration>
+      <urban_inflow>11 838</urban_inflow>
+      <urban_outflow>13 739</urban_outflow>
+      <urban_balance>-1 901</urban_balance>
+      <rural_inflow>9 230</rural_inflow>
+      <rural_outflow>8 300</rural_outflow>
+      <rural_balance>930</rural_balance>
+      <total_inflow>21 068</total_inflow>
+      <total_outflow>22 039</total_outflow>
+      <total_balance>-971</total_balance>
+    </migration>
+  </year>
+  <year ><value>2012</value>
+    <migration>
+      <urban_inflow>10 930</urban_inflow>
+      <urban_outflow>12 525</urban_outflow>
+      <urban_balance>-1 595</urban_balance>
+      <rural_inflow>8 247</rural_inflow>
+      <rural_outflow>7 691</rural_outflow>
+      <rural_balance>556</rural_balance>
+      <total_inflow>19 177</total_inflow>
+      <total_outflow>20 216</total_outflow>
+      <total_balance>-1 039</total_balance>
+    </migration>
+  </year>
+  <year ><value>2013</value>
+    <migration>
+      <urban_inflow>11 854</urban_inflow>
+      <urban_outflow>13 387</urban_outflow>
+      <urban_balance>-1 533</urban_balance>
+      <rural_inflow>8 858</rural_inflow>
+      <rural_outflow>7 990</rural_outflow>
+      <rural_balance>868</rural_balance>
+      <total_inflow>20 712</total_inflow>
+      <total_outflow>21 377</total_outflow>
+      <total_balance>-665</total_balance>
+    </migration>
+  </year>
+  <year ><value>2014</value>
+    <migration>
+      <urban_inflow>11 529</urban_inflow>
+      <urban_outflow>12 699</urban_outflow>
+      <urban_balance>-1 170</urban_balance>
+      <rural_inflow>8 439</rural_inflow>
+      <rural_outflow>8 189</rural_outflow>
+      <rural_balance>250</rural_balance>
+      <total_inflow>19 968</total_inflow>
+      <total_outflow>20 888</total_outflow>
+      <total_balance>-920</total_balance>
+    </migration>
+  </year>
+  <year ><value>2015</value>
+    <migration>
+      <urban_inflow>10 985</urban_inflow>
+      <urban_outflow>11 579</urban_outflow>
+      <urban_balance>-594</urban_balance>
+      <rural_inflow>7 706</rural_inflow>
+      <rural_outflow>7 844</rural_outflow>
+      <rural_balance>-138</rural_balance>
+      <total_inflow>18 691</total_inflow>
+      <total_outflow>19 423</total_outflow>
+      <total_balance>-732</total_balance>
+    </migration>
+  </year>
+  <year ><value>2016</value>
+    <migration>
+      <urban_inflow>10 915</urban_inflow>
+      <urban_outflow>11 447</urban_outflow>
+      <urban_balance>-532</urban_balance>
+      <rural_inflow>8 063</rural_inflow>
+      <rural_outflow>8 155</rural_outflow>
+      <rural_balance>-92</rural_balance>
+      <total_inflow>18 978</total_inflow>
+      <total_outflow>19 602</total_outflow>
+      <total_balance>-624</total_balance>
+    </migration>
+  </year>
+  <year ><value>2017</value>
+    <migration>
+      <urban_inflow>11 719</urban_inflow>
+      <urban_outflow>12 235</urban_outflow>
+      <urban_balance>-516</urban_balance>
+      <rural_inflow>8 058</rural_inflow>
+      <rural_outflow>8 350</rural_outflow>
+      <rural_balance>-292</rural_balance>
+      <total_inflow>19 777</total_inflow>
+      <total_outflow>20 585</total_outflow>
+      <total_balance>-808</total_balance>
+    </migration>
+  </year>
+  <year ><value>2018</value>
+    <migration>
+      <urban_inflow>12 690</urban_inflow>
+      <urban_outflow>13 872</urban_outflow>
+      <urban_balance>-1 182</urban_balance>
+      <rural_inflow>9 552</rural_inflow>
+      <rural_outflow>9 313</rural_outflow>
+      <rural_balance>239</rural_balance>
+      <total_inflow>22 242</total_inflow>
+      <total_outflow>23 185</total_outflow>
+      <total_balance>-943</total_balance>
+    </migration>
+  </year>
+  <year ><value>2019</value>
+    <migration>
+      <urban_inflow>13 099</urban_inflow>
+      <urban_outflow>14 321</urban_outflow>
+      <urban_balance>-1 222</urban_balance>
+      <rural_inflow>9 695</rural_inflow>
+      <rural_outflow>9 357</rural_outflow>
+      <rural_balance>338</rural_balance>
+      <total_inflow>22 794</total_inflow>
+      <total_outflow>23 678</total_outflow>
+      <total_balance>-884</total_balance>
+    </migration>
+  </year>
+  <year ><value>2020</value>
+    <migration>
+      <urban_inflow>9 982</urban_inflow>
+      <urban_outflow>11 680</urban_outflow>
+      <urban_balance>-1 698</urban_balance>
+      <rural_inflow>8 342</rural_inflow>
+      <rural_outflow>7 391</rural_outflow>
+      <rural_balance>951</rural_balance>
+      <total_inflow>18 324</total_inflow>
+      <total_outflow>19 071</total_outflow>
+      <total_balance>-747</total_balance>
+    </migration>
+  </year>
+  <year ><value>2021</value>
+    <migration>
+      <urban_inflow>10 497</urban_inflow>
+      <urban_outflow>13 023</urban_outflow>
+      <urban_balance>-2 526</urban_balance>
+      <rural_inflow>9 711</rural_inflow>
+      <rural_outflow>8 131</rural_outflow>
+      <rural_balance>1 580</rural_balance>
+      <total_inflow>20 208</total_inflow>
+      <total_outflow>21 154</total_outflow>
+      <total_balance>-946</total_balance>
+    </migration>
+  </year>
+</region>
+</migracja>
